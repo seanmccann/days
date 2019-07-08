@@ -1,0 +1,9 @@
+[package]
+name = "days"
+version = "1.0.0"
+authors = ["Sean McCann <sean@smccann.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.7"
+time = "0.1.42"
